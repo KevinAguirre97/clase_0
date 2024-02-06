@@ -2,3 +2,4 @@
 2- git stauts=> Obtengo imformacion del repositorio.
 3- git add[archivos]=> Agrego archivos al stage area.
 4- git commit -m 'Texto explicativo del commit'.
+5- git log => Muestra los commits realizados.
